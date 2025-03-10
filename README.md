@@ -1,4 +1,4 @@
-# Web Technologies - Detailed Explanation
+# Basics Information about WEB-Technologies
 
 ## 1. Differences Between Previous HTML Versions and the Latest Version
 
@@ -191,7 +191,3 @@ $("#loadData").click(function(){
 
 ---
 
-## **Conclusion**
-This document provides an overview of web technologies from HTML to databases and JavaScript frameworks. For hands-on practice, try building small projects implementing these concepts.
-
----
