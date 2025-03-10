@@ -14,7 +14,7 @@
     * Introduced semantic elements (`<article>`, `<nav>`, `<aside>`).
     * Enhanced multimedia support (`<video>`, `<audio>`).
     * Canvas for graphics and local storage.
-    * Significantly improved web application capabilities.
+    * HTML5 supports offline applications (like Google Docs).
 * **HTML Living Standard:**
     * Continuously updated, replacing the versioned approach.
     * Focus on ongoing improvements and features.
