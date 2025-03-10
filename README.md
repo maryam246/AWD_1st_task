@@ -1,11 +1,4 @@
-# Basics Information about WEB-Technologi
-### **Feature Comparison:**
-| Feature   | Web 1.0 | Web 2.0 | Web 3.0 |
-|-----------|--------|--------|--------|
-| **Interaction** | Static (Read-only) | Interactive (Social Media) | AI & Decentralized (Blockchain) |
-| **Examples** | Early websites | Facebook, YouTube | Cryptocurrencies, AI chatbots |
-| **Data Ownership** | Controlled by website owners | Shared between users & platforms | Users have full control over data |
-| **Technology** | HTML, CSS | JavaScript, AJAX, APIs | Blockchain, AI, Smart Contracts |
+# Basics Information about WEB-Technologies
 ## 1. Previous Versions of HTML vs. New Versions
 
 ### Evolution of HTML
