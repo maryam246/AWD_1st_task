@@ -1,7 +1,4 @@
-# Basics Information about WEB-Technologies
-# Web Development Concepts
-
-This document provides a comprehensive overview of key web development concepts, addressing various aspects from HTML evolution to modern web paradigms.
+# Basics Information about WEB-Technologi
 
 ## 1. Previous Versions of HTML vs. New Versions
 
